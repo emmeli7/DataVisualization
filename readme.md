@@ -1,0 +1,1 @@
+A World map with zoom / pan functionality and added markers on cities.
